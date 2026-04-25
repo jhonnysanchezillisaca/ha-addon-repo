@@ -1,9 +1,5 @@
-[
-  {
-    "name": "House Plant Care",
-    "slug": "house_plant_care",
-    "description": "Track and manage your house plant care schedules with alerts and overdue notifications",
-    "url": "https://github.com/jhonnysanchezillisaca/ha-addon-repo",
-    "image": "ghcr.io/jhonnysanchezillisaca/house-plant-care-{arch}"
-  }
-]
+{
+  "name": "House Plant Care",
+  "url": "https://github.com/jhonnysanchezillisaca/ha-addon-repo",
+  "maintainer": "jhonnysanchezillisaca"
+}
